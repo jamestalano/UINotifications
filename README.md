@@ -8,7 +8,6 @@
 <img src="https://img.shields.io/cocoapods/l/UINotifications.svg?style=flat"/>
 <img src="https://img.shields.io/cocoapods/p/UINotifications.svg?style=flat"/>
 <img src="https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat"/>
-<img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat"/>
 </p>
 
 - [Features](#features)
@@ -22,8 +21,7 @@
     - [Create a custom presenter](#create-a-custom-presenter)
 - [Communication](#communication)
 - [Installation](#installation)
-- [Release Notes](#release-notes)
-- [License](#license)
+
 
 ## Features
 - [x] Present your own custom view easily as an in-app Notification
